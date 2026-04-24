@@ -1,0 +1,16 @@
+# Angular
+dist/
+tmp/
+out-of-memory.log
+node_modules/
+.angular/
+
+# Python
+venv/
+*.pyc
+__pycache__/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
